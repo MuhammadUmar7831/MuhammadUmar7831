@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/muhammad-umar-b1a815269" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-umar-b1a815269" height="30" width="40" /></a>
 <a href="https://instagram.com/muhammad_umar489" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muhammad_umar489" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/muhammadumar-dx3e" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="muhammadumar-dx3e" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCUVkB0SdqaUK9WNVsTTSJbQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="muhammadumar-dx3e" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
