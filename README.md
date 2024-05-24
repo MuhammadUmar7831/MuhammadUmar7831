@@ -1,6 +1,11 @@
+<p align="center">
+  <a href="https://rishavchanda.io">
+    <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" alt="MasterHead">
+  </a>
+</p>
 <h1 align="center">Hi 👋, I'm Muhammad Umar</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
-<img align="right" alt="Coding" src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" />
+<img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzczZmZ1MTV1aHprcjVxZTYyYWM4aWNwdTBzZGRyYmVhYjFpdG81ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aNqEFrYVnsS52/giphy.gif" />
 - 🔭 I’m currently working on [Rehaish](https://github.com/MuhammadUmar7831/Rehaish)
 
 - 🌱 I’m currently learning **AI Machine Learning**
