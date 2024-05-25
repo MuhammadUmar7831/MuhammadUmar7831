@@ -5,7 +5,9 @@
 
 - 🌱 I’m currently learning **AI Machine Learning**
 
-- 👨‍💻 All of my projects are available at [muhammad-umar.vercel.app](muhammad-umar.vercel.app)
+- 👨‍💻 All of my projects are available at [repository](https://github.com/MuhammadUmar7831?tab=repositories)
+
+- 🌐 See my portfolio here [muhammad-umar](https://muhammad-umar.vercel.app)
 
 - 💬 Ask me about **react, mongodb, expressjs, python**
 
