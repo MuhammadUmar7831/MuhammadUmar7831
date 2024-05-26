@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Umar</h1>
-<h3 align="center">A passionate frontend developer from Pakistan</h3>
+<h3 align="center">An Ordinary Person from Lahore Pakistan</h3>
 <img align="right" alt="Coding" width="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzczZmZ1MTV1aHprcjVxZTYyYWM4aWNwdTBzZGRyYmVhYjFpdG81ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aNqEFrYVnsS52/giphy.gif" />
 - 🔭 I’m currently working on [Rehaish](https://github.com/MuhammadUmar7831/Rehaish)
 
