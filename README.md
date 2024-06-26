@@ -27,4 +27,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammadumar7831&show_icons=true&locale=en" alt="muhammadumar7831" /></p>
 
+<h3 align="left">Github Stats:</h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhammadumar7831&" alt="muhammadumar7831" /></p>
+<h3 align="left">LeetCode Stats:</h3>
+<p><img align="center" src="https://leetcode.card.workers.dev/mu8494759?theme=default&font=baloo&extension=null" alt="mu8494759"/></p>
