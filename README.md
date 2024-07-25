@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Muhammad Umar</h1>
 <h3 align="center">An Ordinary Person from Lahore Pakistan</h3>
-<img align="right" alt="Coding" width="300" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNzczZmZ1MTV1aHprcjVxZTYyYWM4aWNwdTBzZGRyYmVhYjFpdG81ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/aNqEFrYVnsS52/giphy.gif" />
+<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/gist/ManulMax/2d20af60d709805c55fd784ca7cba4b9/raw/bcfeac7604f674ace63623106eb8bb8471d844a6/github.gif" />
 - 🌱 I’m currently learning **AI Machine Learning**
 
 - 👨‍💻 All of my projects are available at [repository](https://github.com/MuhammadUmar7831?tab=repositories)
