@@ -1,18 +1,16 @@
 <h1 align="center">Hi 👋, I'm Muhammad Umar</h1>
-<h3 align="center">An Ordinary Person from Lahore Pakistan</h3>
+<h3 align="center">A Human Being from پاکستان</h3>
 <img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/gist/ManulMax/2d20af60d709805c55fd784ca7cba4b9/raw/bcfeac7604f674ace63623106eb8bb8471d844a6/github.gif" />
-- 🌱 I’m currently learning **AI Machine Learning**
 
 - 👨‍💻 All of my projects are available at [repository](https://github.com/MuhammadUmar7831?tab=repositories)
 
 - 🌐 See my portfolio here [muhammad-umar](https://muhammad-umar.vercel.app)
 
-- 💬 Ask me about **react, mongodb, expressjs, python**
-
 - 📫 How to reach me **mu8494759@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://leetcode.com/u/mu8494759" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="muhammad-umar" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/muhammad-umar-b1a815269" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammad-umar-b1a815269" height="30" width="40" /></a>
 <a href="https://instagram.com/muhammad_umar489" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="muhammad_umar489" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCUVkB0SdqaUK9WNVsTTSJbQ" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="muhammadumar-dx3e" height="30" width="40" /></a>
