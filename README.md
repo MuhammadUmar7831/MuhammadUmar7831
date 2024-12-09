@@ -4,7 +4,7 @@
 
 - 👨‍💻 All of my projects are available at [repository](https://github.com/MuhammadUmar7831?tab=repositories)
 
-- 🌐 See my portfolio here [muhammad-umar](https://muhammad-umar.vercel.app)
+- 🌐 See my portfolio here [m-umar](https://m-umar.work)
 
 - 📫 How to reach me **mu8494759@gmail.com**
 
